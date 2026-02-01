@@ -1,1 +1,1 @@
-# AI Skills
+# Agent Skills
